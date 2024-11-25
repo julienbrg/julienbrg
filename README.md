@@ -80,6 +80,14 @@ A cross-chain bridge that will support ETH and USDC on 10+ networks.
 - [API repo](https://github.com/w3hc/navette-api)
 - [Live demo](https://navette-ui.netlify.app/)
 
+### Game of Go
+
+Solidity implementation of the game of Go.
+
+- [GitHub repo](https://github.com/julienbrg/game-of-go)
+- [Live demo](https://go-onchain.netlify.app/) 
+- [UI GitHub repo](https://github.com/julienbrg/go-onchain/)
+
 ### Dynamic Rewards Staking NFT
 
 Allows users to stake governance tokens in an NFT while keeping your delegation rights. 
