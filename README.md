@@ -2,7 +2,7 @@
 
 > CEO of Strat | Co-founder of the Web3 Hackers Collective
 
-I’ve been committed to building Web3 for more than ten years. I've co-founded of the [Web3 Hackers Collective](https://github.com/w3hc) and I'm currently working on several different apps including [Gov](https://github.com/w3hc/gov), an on-chain voting system designed for everyday people. I code in Solidity, Node.js, TypeScript, and I mostly work with frameworks like React, Next.js, and Nest.js (APIs).
+I’ve been committed to building Web3 for more than ten years. I've co-founded of the [Web3 Hackers Collective](https://github.com/w3hc) and I'm currently working on several different apps including [Gov](https://github.com/w3hc/gov), an on-chain voting system designed for regular users. I code in Solidity, Node.js, TypeScript, and I mostly work with frameworks like React, Next.js, and Nest.js (APIs).
 
 [![Element](https://img.shields.io/badge/-Element-0DBD8B?style=flat&logo=element&logoColor=white)](https://matrix.to/#/@julienbrg:matrix.org)
 [![Farcaster](https://img.shields.io/badge/-Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://warpcast.com/julien-)
@@ -33,7 +33,6 @@ I’ve been committed to building Web3 for more than ten years. I've co-founded 
 ![GitHub contributions in the last year](https://github-readme-streak-stats.herokuapp.com/?user=julienbrg&theme=tokyonight)
 
 ![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julienbrg&theme=tokyonight)
-
 
 ## Projects
 
@@ -66,6 +65,7 @@ A Nest.js-based API that interacts with several different LLM services.
 
 - [GitHub repo](https://github.com/w3hc/fatou)
 - Example of [Francesca](https://ask-my-assistant.netlify.app/) (my assistant)
+- Example of [OUF](https://ethglobal.com/showcase/ouf-ya5wi) (developed during ETH Global Agentic hackathon): Create and personalize an AI assistant tailored to your organization's needs.
 
 ### Avventura
 
@@ -121,6 +121,13 @@ Helps everyone to learn poems and songs by heart.
 
 ### Templates & Boilerplates
 
+#### Rukh
+
+Nest.js-based AI agent toolkit.
+
+- [Main repo](https://github.com/w3hc/rukh)
+- [Short demo video](https://youtu.be/5YDAfwaddNI)
+
 #### W3HC Hardhat Template
 
 A Hardhat template that includes:
@@ -149,7 +156,3 @@ Recipient of the [Optimism RetroPGF Round 3](https://vote.optimism.io/retropgf/3
 ### DAO Global Hackathon 2021 - 1st Prize 
 
 Winner of the first prize at the [DAO Global Hackathon](https://daoglobalhackathon.com/past-hackathons) for [Concord](https://github.com/allforclimate/concord), a DAO framework that allows you to submit proposals and vote from Discord.
-
-## Latest Blog Posts
-
-- [FR] [Web3, crypto, blockchain : de quoi s’agit-il ?](https://julienberanger.com/web3)
