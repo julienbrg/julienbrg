@@ -1,8 +1,8 @@
 # Julien Béranger
 
-> CEO of Strat | Co-founder of the Web3 Hackers Collective
+Co-founder of the [Web3 Hackers Collective](https://github.com/w3hc) | CEO of [Strat](https://strat.cc/)
 
-I’ve been committed to building Web3 for more than ten years. I've co-founded of the [Web3 Hackers Collective](https://github.com/w3hc) and I'm currently working on several different apps including [Gov](https://github.com/w3hc/gov), an on-chain voting system designed for regular users. I code in Solidity, Node.js, TypeScript, and I mostly work with frameworks like React, Next.js, and Nest.js (APIs).
+I mainly code in [Solidity](https://docs.soliditylang.org/), [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), and I love working with frameworks like [React](https://react.dev/), [Next.js](https://nextjs.org/), and [Nest.js](https://nestjs.com/).
 
 [![Element](https://img.shields.io/badge/-Element-0DBD8B?style=flat&logo=element&logoColor=white)](https://matrix.to/#/@julienbrg:matrix.org)
 [![Farcaster](https://img.shields.io/badge/-Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://warpcast.com/julien-)
@@ -30,8 +30,6 @@ I’ve been committed to building Web3 for more than ten years. I've co-founded 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=julienbrg&count_private=true&show_icons=true&theme=tokyonight)
 
-![GitHub contributions in the last year](https://github-readme-streak-stats.herokuapp.com/?user=julienbrg&theme=tokyonight)
-
 ![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julienbrg&theme=tokyonight)
 
 ## Projects
@@ -44,6 +42,8 @@ Gov is an on-chain voting system designed for everyday people. It's a DAO framew
 - UI [repo](https://github.com/w3hc/gov-ui) and [live demo](https://gov-ui.netlify.app/)
 - Deployer [repo](https://github.com/w3hc/gov-deployer) and **[live app](https://gov-deployer.netlify.app/)**
 - [Docs](https://w3hc.github.io/gov-docs/)
+- Gov SaaS [repo](https://github.com/w3hc/gov-saas)
+- Gov API [repo](https://github.com/w3hc/gov-api)
 
 ### Zhankai
 
@@ -59,13 +59,12 @@ There's also a token-gated option where you get suggestions about your own app: 
 zhankai -q "Add this or that feature"
 ```
 
-### Fatou API
+### Rukh API
 
-A Nest.js-based API that interacts with several different LLM services.
+A lightweight, developer-friendly toolkit for building AI agents with Web3 integration.
 
-- [GitHub repo](https://github.com/w3hc/fatou)
-- Example of [Francesca](https://ask-my-assistant.netlify.app/) (my assistant)
-- Example of [OUF](https://ethglobal.com/showcase/ouf-ya5wi) (developed during ETH Global Agentic hackathon): Create and personalize an AI assistant tailored to your organization's needs.
+- [GitHub repo](https://github.com/w3hc/rukh)
+- [Swagger UI](https://rukh.w3hc.org/)
 
 ### Avventura
 
@@ -121,13 +120,6 @@ Helps everyone to learn poems and songs by heart.
 
 ### Templates & Boilerplates
 
-#### Rukh
-
-Nest.js-based AI agent toolkit.
-
-- [Main repo](https://github.com/w3hc/rukh)
-- [Short demo video](https://youtu.be/5YDAfwaddNI)
-
 #### W3HC Hardhat Template
 
 A Hardhat template that includes:
@@ -146,6 +138,14 @@ A Next.js Web3 app template that includes:
 - [Reown](https://reown.com/appkit)
 - [Ethers.js](https://ethers.org/) (v6)
 - [Chakra UI](https://chakra-ui.com/)
+
+#### Rukh
+
+A lightweight, developer-friendly toolkit for building AI agents with Web3 integration.
+
+- [GitHub repo](https://github.com/w3hc/rukh)
+- [Swagger UI](https://rukh.w3hc.org/)
+- [Short demo video](https://youtu.be/5YDAfwaddNI)
 
 ## Prizes & Recognition
 
