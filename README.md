@@ -47,13 +47,11 @@ Gov is an on-chain voting system designed for everyday people. It's a DAO framew
 
 ### Zhankai
 
-An AI tool for devs. Makes your app LLM-ready.
+CLI tool that turns your repo a into structured markdown file for LLM processing, with optional Claude 3.7 Sonnet code editing.
 
 - [GitHub repo](https://github.com/w3hc/zhankai)
 - [NPM package](https://www.npmjs.com/package/zhankai)
 - [Demo video](https://youtu.be/kdNZEml9Vns?si=2lntU-33WFidt0NO)
-
-There's also a token-gated option where you get suggestions about your own app: you just need to type this in your terminal: 
 
 ```
 zhankai -q "Add this or that feature"
@@ -65,10 +63,23 @@ A lightweight, developer-friendly toolkit for building AI agents with Web3 integ
 
 - [GitHub repo](https://github.com/w3hc/rukh)
 - [Swagger UI](https://rukh.w3hc.org/)
+- Chat with my assistant Fracesca: https://ask.julienberanger.com/
+
+### EIP-7702 Playground
+
+- [GitHub repo](https://github.com/w3hc/eip7702-playground)
+
+### Game of Go
+
+Solidity implementation of the game of Go.
+
+- [GitHub repo](https://github.com/julienbrg/game-of-go)
+- [Live demo](https://go-onchain.netlify.app/) 
+- [UI GitHub repo](https://github.com/julienbrg/go-onchain/)
 
 ### Avventura
 
-The one and only Web3 social RPG. 
+The one and only test-based Web3 social RPG. 
 
 - [Live app](https://avventura.fun/)
 
@@ -78,14 +89,6 @@ A cross-chain bridge that will support ETH and USDC on 10+ networks.
 
 - [API repo](https://github.com/w3hc/navette-api)
 - [Live demo](https://navette-ui.netlify.app/)
-
-### Game of Go
-
-Solidity implementation of the game of Go.
-
-- [GitHub repo](https://github.com/julienbrg/game-of-go)
-- [Live demo](https://go-onchain.netlify.app/) 
-- [UI GitHub repo](https://github.com/julienbrg/go-onchain/)
 
 ### Dynamic Rewards Staking NFT
 
