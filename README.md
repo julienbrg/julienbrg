@@ -28,7 +28,7 @@ I mainly code in [Solidity](https://docs.soliditylang.org/), [Node.js](https://n
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=julienbrg&count_private=true&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=julienbrg&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julienbrg&theme=tokyonight)
 
@@ -53,14 +53,13 @@ A lightweight, developer-friendly toolkit for building AI agents with Web3 integ
 
 - [GitHub repo](https://github.com/w3hc/rukh)
 - [Swagger UI](https://rukh.w3hc.org/)
-- Chat with my assistant Fracesca: https://ask.julienberanger.com/
+- Chat with my assistant Fracesca: https://julienberanger.com/chat
 
 ### Avventura
 
 The one and only test-based Web3 social RPG. 
 
 - [Live app](https://v2.avventura.fun/)
-- Create yours at https://v2.avventura.fun/create
 
 ### Zhankai
 
@@ -84,13 +83,16 @@ Solidity implementation of the game of Go.
 - [Live demo](https://go-onchain.netlify.app/) 
 - [UI GitHub repo](https://github.com/julienbrg/go-onchain/)
 
-### Veridocs
+### Affix
 
-Allows institutions, companies and individuals to authenticate documents.
+Affix your onchain seal and let the world verify it.
 
-- [Live app](https://veridocs-ui.vercel.app/)
-- [UI repo](https://github.com/julienbrg/veridocs-ui)
-- [Solidity contracts repo](https://github.com/julienbrg/veridocs-contracts)
+Organisations, businesses and individuals can authenticate their documents using Filecoin while keeping their existing workflows intact. Anyone can then instantly verify that documents are genuine and unaltered.
+
+- [Live app](https://affix-ui.vercel.app/)
+- [UI repo](https://github.com/julienbrg/affix-ui)
+- [Solidity contracts repo](https://github.com/julienbrg/affix-contracts)
+- [Demo video](https://www.youtube.com/watch?v=XoquF4TzP54)
 
 ### EIP-7702 Playground
 
@@ -126,6 +128,13 @@ A smart contract implementation of [ERC-7683: Cross Chain Intents Standard](http
 NFT-gated content.
 
 - [GitHub repo](https://github.com/w3hc/myst-api)
+
+### Kult
+
+Store the books, movies and artworks you loved.
+
+- [GitHub repo](https://github.com/julienbrg/kult)
+- [Live app](https://kult-app.netlify.app/)
 
 ### Par Coeur
 
