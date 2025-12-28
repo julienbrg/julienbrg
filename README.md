@@ -47,13 +47,23 @@ Gov is an on-chain voting system designed for everyday people. It's a DAO framew
 - Gov SaaS [repo](https://github.com/w3hc/gov-saas)
 - Gov API [repo](https://github.com/w3hc/gov-api)
 
+### w3pk
+
+**w3pk** is a passwordless Web3 wallet SDK that uses biometric authentication (WebAuthn) to secure self-custodial wallets, eliminating passwords while providing privacy features like stealth addresses and ZK proof primitives.
+
+- [Website](https://w3pk.w3hc.org/)
+- [Docs](https://w3pk.w3hc.org/docs#quick-start) 
+- [GitHub repo](https://github.com/w3hc/w3pk)
+- [NPM package](https://www.npmjs.com/package/w3pk)
+- [Next.js boilerplate](http://genji.w3hc.org/)
+
 ### Rukh API
 
-A lightweight, developer-friendly toolkit for building AI agents with Web3 integration.
+A modular AI framework allowing personalized contexts and support for multiple LLMs
 
 - [GitHub repo](https://github.com/w3hc/rukh)
 - [Swagger UI](https://rukh.w3hc.org/)
-- Chat with my assistant Fracesca: https://julienberanger.com/chat
+- Chat with my assistant Francesca: https://julienberanger.com/chat
 
 ### Avventura
 
@@ -85,14 +95,14 @@ Solidity implementation of the game of Go.
 
 ### Affix
 
-Affix your onchain seal and let the world verify it.
+Authenticate your documents onchain while keeping your existing workflows intact. Anyone can then instantly verify that documents are genuine and unaltered.
 
-Organisations, businesses and individuals can authenticate their documents using Filecoin while keeping their existing workflows intact. Anyone can then instantly verify that documents are genuine and unaltered.
-
-- [Live app](https://affix-ui.vercel.app/)
+- [Live app](https://affix.w3hc.org/)
 - [UI repo](https://github.com/julienbrg/affix-ui)
 - [Solidity contracts repo](https://github.com/julienbrg/affix-contracts)
 - [Demo video](https://www.youtube.com/watch?v=XoquF4TzP54)
+
+## Old projects
 
 ### EIP-7702 Playground
 
@@ -164,9 +174,9 @@ NFT-gated VOD service.
 
 - [GitHub repo](https://github.com/julienbrg/jungle-fever)
 
-### Templates & Boilerplates
+## Templates & Boilerplates
 
-#### W3HC Hardhat Template
+### W3HC Hardhat Template
 
 A Hardhat template that includes:
 
@@ -176,16 +186,18 @@ A Hardhat template that includes:
 - [Hardhat Verify plugin](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify)
 - [Hardhat Deploy plugin](https://github.com/wighawag/hardhat-deploy)
 
-#### Genji
+### Genji
 
-A Next.js Web3 app template that includes:
+Next.js Web3 starter with passkey auth and WCAG 2.1 AA compliant accessibility.
 
-- [Next.js](https://nextjs.org/)
-- [Reown](https://reown.com/appkit)
-- [Ethers.js](https://ethers.org/) (v6)
-- [Chakra UI](https://chakra-ui.com/)
+Live demo: **https://genji.w3hc.org**
 
-#### Rukh
+- **[w3pk](https://w3pk.w3hc.org/)** `v0.8.8`
+- [Next.js](https://nextjs.org/) `v16.0.10`
+- [Ethers](https://docs.ethers.org/) `v6.16.0`
+- [Chakra UI](https://chakra-ui.com/) `v3.30.0`
+
+### Rukh
 
 A lightweight, developer-friendly toolkit for building AI agents with Web3 integration.
 
