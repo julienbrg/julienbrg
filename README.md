@@ -2,7 +2,7 @@
 
 Co-founder of the [Web3 Hackers Collective](https://github.com/w3hc) | CEO of [Strat](https://strat.cc/)
 
-I mainly code in [Solidity](https://docs.soliditylang.org/), [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), and I love working with frameworks like [React](https://react.dev/), [Next.js](https://nextjs.org/), and [Nest.js](https://nestjs.com/).
+I mainly code in [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en), [Solidity](https://docs.soliditylang.org/), and I love working with frameworks like [React](https://react.dev/), [Next.js](https://nextjs.org/), and [Nest.js](https://nestjs.com/).
 
 [![Element](https://img.shields.io/badge/-Element-0DBD8B?style=flat&logo=element&logoColor=white)](https://matrix.to/#/@julienbrg:matrix.org)
 [![Farcaster](https://img.shields.io/badge/-Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://warpcast.com/julien-)
@@ -27,8 +27,6 @@ I mainly code in [Solidity](https://docs.soliditylang.org/), [Node.js](https://n
 ![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 
 ## Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=julienbrg&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julienbrg&theme=tokyonight)
 
@@ -67,9 +65,9 @@ A modular AI framework allowing personalized contexts and support for multiple L
 
 ### Avventura
 
-The one and only test-based Web3 social RPG. 
+The one and only text-based Web3 social RPG. 
 
-- [Live app](https://v2.avventura.fun/)
+- [Live app](https://avventura.fun/)
 
 ### Zhankai
 
