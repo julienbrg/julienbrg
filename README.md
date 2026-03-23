@@ -1,6 +1,6 @@
 # Julien Béranger
 
-Co-founder of the [Web3 Hackers Collective](https://github.com/w3hc) | CEO of [Strat](https://strat.cc/)
+Hello Anon! Web3 hacker, AI builder and privacy maxi, I'm the co-founder of the [Web3 Hackers Collective](https://github.com/w3hc) and CEO of [Strat](https://strat.cc/).
 
 I mainly code in [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en), [Solidity](https://docs.soliditylang.org/), and I love working with frameworks like [React](https://react.dev/), [Next.js](https://nextjs.org/), and [Nest.js](https://nestjs.com/).
 
@@ -55,6 +55,18 @@ Gov is an on-chain voting system designed for everyday people. It's a DAO framew
 - [NPM package](https://www.npmjs.com/package/w3pk)
 - [Next.js boilerplate](http://genji.w3hc.org/)
 
+### Wulong
+
+A NestJS API designed to run inside a Trusted Execution Environment (TEE) with quantum-resistant ML-KEM-1024 encryption and Web3 authentication (SIWE), giving users cryptographic guarantees that the operator cannot access their data during processing.
+
+- [GitHub repo](https://github.com/w3hc/wulong)
+
+### ZK API
+
+A privacy-preserving system that enables anonymous access to Claude's AI models through a prepaid credit system backed by Ethereum smart contracts, using Zero-Knowledge proofs and Rate-Limit Nullifiers (RLN) to ensure users can make thousands of anonymous API requests without revealing their identity or linking requests together.
+
+- [GitHub repo](https://github.com/w3hc/zk-api)
+
 ### Rukh API
 
 A modular AI framework allowing personalized contexts and support for multiple LLMs
@@ -62,6 +74,22 @@ A modular AI framework allowing personalized contexts and support for multiple L
 - [GitHub repo](https://github.com/w3hc/rukh)
 - [Swagger UI](https://rukh.w3hc.org/)
 - Chat with my assistant Francesca: https://julienberanger.com/chat
+
+### Affix
+
+Authenticate your documents onchain while keeping your existing workflows intact. Anyone can then instantly verify that documents are genuine and unaltered.
+
+- [Live app](https://affix.w3hc.org/)
+- [UI repo](https://github.com/julienbrg/affix-ui)
+- [Solidity contracts repo](https://github.com/julienbrg/affix-contracts)
+- [Demo video](https://www.youtube.com/watch?v=XoquF4TzP54)
+
+### Shebam
+
+Shebam is faster and cheaper than any existing payment system. We're using an onchain euro that is legally regulated. We're using a test network right now, but it will work exactly the same on the main network.
+
+- [GitHub repo](https://github.com/w3hc/shebam)
+- [Live demo](https://shebam.w3hc.org/)
 
 ### Avventura
 
@@ -91,16 +119,7 @@ Solidity implementation of the game of Go.
 - [Live demo](https://go-onchain.netlify.app/) 
 - [UI GitHub repo](https://github.com/julienbrg/go-onchain/)
 
-### Affix
-
-Authenticate your documents onchain while keeping your existing workflows intact. Anyone can then instantly verify that documents are genuine and unaltered.
-
-- [Live app](https://affix.w3hc.org/)
-- [UI repo](https://github.com/julienbrg/affix-ui)
-- [Solidity contracts repo](https://github.com/julienbrg/affix-contracts)
-- [Demo video](https://www.youtube.com/watch?v=XoquF4TzP54)
-
-## Old projects
+## Older projects
 
 ### EIP-7702 Playground
 
