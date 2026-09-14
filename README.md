@@ -28,7 +28,7 @@ I mainly code in [TypeScript](https://www.typescriptlang.org/), [Node.js](https:
 
 ## Stats
 
-![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julienbrg&theme=tokyonight)
+![Metrics](./github-metrics.svg)
 
 ## Projects
 
