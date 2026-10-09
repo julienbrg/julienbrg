@@ -1,8 +1,12 @@
 # Julien Béranger
 
-Hello Anon! Web3 hacker, AI builder and privacy maxi, I'm the co-founder of the [Web3 Hackers Collective](https://github.com/w3hc) and CEO of [Strat](https://strat.cc/).
+Hello Anon! 👋
 
-I mainly code in [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en), [Solidity](https://docs.soliditylang.org/), and I love working with frameworks like [React](https://react.dev/), [Next.js](https://nextjs.org/), and [Nest.js](https://nestjs.com/).
+ZK/AI/Web3 builder, privacy maxi. Co-founder of the [Web3 Hackers Collective](https://github.com/w3hc), CEO of [Strat](https://strat.cc/).
+
+I ship with TypeScript, Solidity, React, Next.js and Nest.js.
+
+When I'm not building, I teach teams to use AI the right way. I'm an Ambassadeur "[Osez l'IA](https://www.entreprises.gouv.fr/osez-lia)" for the [DGE](https://www.entreprises.gouv.fr/).
 
 [![Element](https://img.shields.io/badge/-Element-0DBD8B?style=flat&logo=element&logoColor=white)](https://matrix.to/#/@julienbrg:matrix.org)
 [![Farcaster](https://img.shields.io/badge/-Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://warpcast.com/julien-)
@@ -32,18 +36,39 @@ I mainly code in [TypeScript](https://www.typescriptlang.org/), [Node.js](https:
 
 ## Projects
 
+### HuG Flow
+
+HuG Flow is an issue-driven development lifecycle for building software with a coding agent. It extends the GitHub Flow with an explicit division of labor between a human and an agent: process autonomy, content control.
+
+- [Intro post](https://julienberanger.com/hug-flow)
+- [GitHub repo](https://github.com/julienbrg/hug)
+
+### Longjing
+
+RLN-based anonymous API credits behind a TEE gateway, for any upstream API. It's an implementation of a research paper by Davide Crapis & Vitalik Buterin: [ZK API Usage Credits: LLMs and Beyond](https://ethresear.ch/t/zk-api-usage-credits-llms-and-beyond/24104)
+
+- [GitHub repo](https://github.com/w3hc/longjing)
+
+### Wisdom MCP
+
+An MCP server for agentic hybrid search over philosophical and spiritual texts, built on Kevin Owocki's [Wisdom Context Window](https://wisdom.owocki.com/). It returns exact quotes with precise references.
+
+- [GitHub repo](https://github.com/julienbrg/wisdom-mcp)
+- [Design write-up](https://julienberanger.com/wisdom-mcp-agentic-hybrid-search)
+
+### Rukh ENT
+
+An AI tool for French school ENTs: teachers turn their course material into educational activities (AI course assistants), and students work through them by chat. Edifice OAuth 2.0, NestJS, Vite, MCP.
+
+- [GitHub repo](https://github.com/julienbrg/rukh-ent)
+- [Module spec](https://julienberanger.com/ent-module-spec)
+
 ### Gov
 
 Gov is an on-chain voting system designed for everyday people. It's a DAO framework built with Open Zeppelin’s Governor contract in combination with NFTs. 
 
-[**Gov Crosschain**](https://github.com/w3hc/gov-crosschain) allows synchronization across multiple EVM networks.
-
-- [Solidity contracts](https://github.com/w3hc/gov)
-- UI [repo](https://github.com/w3hc/gov-ui) and [live demo](https://gov-ui.netlify.app/)
-- Deployer [repo](https://github.com/w3hc/gov-deployer) and **[live app](https://gov-deployer.netlify.app/)**
+- [GitHub repo](https://github.com/w3hc/gov)
 - [Docs](https://w3hc.github.io/gov-docs/)
-- Gov SaaS [repo](https://github.com/w3hc/gov-saas)
-- Gov API [repo](https://github.com/w3hc/gov-api)
 
 ### w3pk
 
@@ -57,15 +82,9 @@ Gov is an on-chain voting system designed for everyday people. It's a DAO framew
 
 ### Wulong
 
-A NestJS API designed to run inside a Trusted Execution Environment (TEE) with quantum-resistant ML-KEM-1024 encryption and Web3 authentication (SIWE), giving users cryptographic guarantees that the operator cannot access their data during processing.
+A NestJS API designed to run inside a Trusted Execution Environment (TEE) with ML-KEM-1024 encryption and Web3 authentication (SIWE), giving users cryptographic guarantees that the operator cannot access their data during processing.
 
 - [GitHub repo](https://github.com/w3hc/wulong)
-
-### ZK API
-
-A privacy-preserving system that enables anonymous access to Claude's AI models through a prepaid credit system backed by Ethereum smart contracts, using Zero-Knowledge proofs and Rate-Limit Nullifiers (RLN) to ensure users can make thousands of anonymous API requests without revealing their identity or linking requests together.
-
-- [GitHub repo](https://github.com/w3hc/zk-api)
 
 ### Rukh API
 
@@ -119,89 +138,7 @@ Solidity implementation of the game of Go.
 - [Live demo](https://go-onchain.netlify.app/) 
 - [UI GitHub repo](https://github.com/julienbrg/go-onchain/)
 
-## Older projects
-
-### EIP-7702 Playground
-
-- [GitHub repo](https://github.com/w3hc/eip7702-playground)
-
-### Navette
-
-A cross-chain bridge that will support ETH and USDC on 10+ networks. 
-
-- [API repo](https://github.com/w3hc/navette-api)
-- [Live demo](https://navette-ui.netlify.app/)
-
-### Dynamic Rewards Staking NFT
-
-Allows users to stake governance tokens in an NFT while keeping your delegation rights. 
-
-- [Live demo](https://hamsterverse.on-fleek.app) (hosted on Fleek)
-
-### Pattini
-
-Pattini is a GitHub Action designed to incentivize and reward contributors of a GitHub project. When an issue is merged by a maintainer, the pull request author automatically receives a certain amount of ERC-20 (USDC, DAI, ...).
-
-- [GitHub repo](https://github.com/w3hc/pattini)
-
-### Candide Intent
-
-A smart contract implementation of [ERC-7683: Cross Chain Intents Standard](https://ethereum-magicians.org/t/erc-cross-chain-intents-standard/19619), enabling secure cross-chain transactions. This implementation is inspired by and adapted from [Candide Labs' CandideWallet contract](https://github.com/candidelabs/candide-contracts/blob/main/contracts/candideWallet/CandideWallet.sol).
-
-- [GitHub repo](https://github.com/w3hc/candide-intent)
-
-### Myst
-
-NFT-gated content.
-
-- [GitHub repo](https://github.com/w3hc/myst-api)
-
-### Kult
-
-Store the books, movies and artworks you loved.
-
-- [GitHub repo](https://github.com/julienbrg/kult)
-- [Live app](https://kult-app.netlify.app/)
-
-### Par Coeur
-
-Helps everyone to learn poems and songs by heart.
-
-- [GitHub repo](https://github.com/w3hc/parcoeur)
-- [Live app](https://parcoeur.netlify.app/)
-
-### Āto
-
-Create personalized and state-of-the-art IP licenses to go with your NFTs.
-
-***The service was deactivated in 2022**. We worked with authors, auction houses, and fine art galleries.*
-
-- [Demo video](https://www.youtube.com/watch?v=LcGz6WcmZjM)
-- [GitHub org repo](https://github.com/orgs/ATO-nft)
-- [EIP-5560: Redeemable NFTs](https://eips.ethereum.org/EIPS/eip-5560)
-- [Real-time NFT auction web app](https://github.com/ATO-nft/auction-app)
-- [NFT marketplace template](https://github.com/ATO-nft/nft-deep-wire)
-- [NFT scanner](https://github.com/ATO-nft/scanner)
-
-### Jungle fever
-
-NFT-gated VOD service. 
-
-***The service was deactivated in 2022.*** 
-
-- [GitHub repo](https://github.com/julienbrg/jungle-fever)
-
 ## Templates & Boilerplates
-
-### W3HC Hardhat Template
-
-A Hardhat template that includes:
-
-- [Typescript](https://www.typescriptlang.org/)
-- [Ethers v6](https://docs.ethers.org/v6/)
-- [OpenZeppelin Contracts v5.0.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v5.0.1)
-- [Hardhat Verify plugin](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify)
-- [Hardhat Deploy plugin](https://github.com/wighawag/hardhat-deploy)
 
 ### Genji
 
@@ -214,13 +151,15 @@ Live demo: **https://genji.w3hc.org**
 - [Ethers](https://docs.ethers.org/) `v6.16.0`
 - [Chakra UI](https://chakra-ui.com/) `v3.30.0`
 
-### Rukh
+### W3HC Hardhat Template
 
-A lightweight, developer-friendly toolkit for building AI agents with Web3 integration.
+A Hardhat template that includes:
 
-- [GitHub repo](https://github.com/w3hc/rukh)
-- [Swagger UI](https://rukh.w3hc.org/)
-- [Short demo video](https://youtu.be/5YDAfwaddNI)
+- [Typescript](https://www.typescriptlang.org/)
+- [Ethers v6](https://docs.ethers.org/v6/)
+- [OpenZeppelin Contracts v5.0.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v5.0.1)
+- [Hardhat Verify plugin](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify)
+- [Hardhat Deploy plugin](https://github.com/wighawag/hardhat-deploy)
 
 ## Prizes & Recognition
 
