@@ -82,7 +82,7 @@ Gov is an on-chain voting system designed for everyday people. It's a DAO framew
 
 ### Wulong
 
-A NestJS API designed to run inside a Trusted Execution Environment (TEE) ML-KEM-1024 encryption and Web3 authentication (SIWE), giving users cryptographic guarantees that the operator cannot access their data during processing.
+A NestJS API designed to run inside a Trusted Execution Environment (TEE) with ML-KEM-1024 encryption and Web3 authentication (SIWE), giving users cryptographic guarantees that the operator cannot access their data during processing.
 
 - [GitHub repo](https://github.com/w3hc/wulong)
 
